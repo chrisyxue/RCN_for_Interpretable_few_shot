@@ -1,6 +1,11 @@
-# Region Comparison Network for Interpretable Few-shot Image Classification
+## Region Comparison Network for Interpretable Few-shot Image Classification
 
-# Citation
+## Citation
 
-# Run
+If you find our work useful, please consider citing our work using the bibtex:
+
+```
+
+```
+## Run
 
