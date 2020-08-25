@@ -16,5 +16,7 @@ Torchvision 0.5.0
 At least 1 GPU (e.g. NVIDIA TITAN Xp)
 
 ## Contacts
-If you have have any problem, free
+Please feel free to contact us if you have any problem.
+
+Email: xzy990228@gmail.com
 
