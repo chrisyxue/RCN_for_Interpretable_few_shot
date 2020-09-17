@@ -1,7 +1,6 @@
 ## Region Comparison Network for Interpretable Few-shot Image Classification
 Download the paper [Here](https://arxiv.org/pdf/2009.03558.pdf)
 
-## Architecture
 ![image](https://github.com/chrisyxue/RCN_for_Interpretable_few_shot/blob/master/images/Arch.png)
 
 ## Citation
